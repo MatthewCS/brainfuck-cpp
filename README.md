@@ -3,7 +3,7 @@ Simple (and far from perfect) brainfuck interpreter written in C++. I may or may
 
 To run the program, use the command `./main <path to brainfuck program>`.
 
-I'd like to make some changes to this project at a later date. For example, what if we wanted to print an integer rather than an ASCII value?
+I'd like to make some changes to this project at a later date. For example, what if we wanted to print an integer rather than its corresponding ASCII character?
 
 # NOTES
 - The hello.b sample program was lifted from here: `https://fatiherikli.github.io/brainfuck-visualizer/` This is a really neat tool, and I encourage you to try it!
