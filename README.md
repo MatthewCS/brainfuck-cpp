@@ -1,4 +1,7 @@
 # brainfuck++
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2d090007e0204963bc5a8019131f6a93)](https://www.codacy.com/manual/MatthewCS/brainfuck-cpp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MatthewCS/brainfuck-cpp&amp;utm_campaign=Badge_Grade)
+
 Simple (and far from perfect) brainfuck interpreter written in C++. I may or may not work on this further.
 
 To run the program, use the command `./main <path to brainfuck program>`.
